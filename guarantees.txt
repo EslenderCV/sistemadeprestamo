@@ -1,0 +1,5 @@
+1;Hyundai sonata n20;
+2;Solar 3000 m2;
+3;sonata mamei;
+100;un cg 200 version americana;
+1000;otro cg 200 Rojo version japonesa;

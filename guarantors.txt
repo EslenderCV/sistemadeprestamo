@@ -1,0 +1,3 @@
+1;Richard;Morales;Padilla;Calle principal;40212576223;8299;comp;8299;15750.0;true;
+2;jose luis;peña;Gonzalez;Sabana Iglesia calle principal los taveras;40234180848;82955534566;Clinica dental 5ta ;Gerente;225000.0;true;
+3;Mario Jose ;Almanzar;Ramirez;Las caobas santiago;0314050660;8096821414;Baldon;Chofer de camion;25470.0;true;

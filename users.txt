@@ -1,0 +1,4 @@
+richardm;admin;0;Richard;Morales;richardm@gmail.com;
+adnmin;admin;0;admin;prueba;pruebaadmin@gmail.com;
+Brytni;admin;0;Brini ;Taveraz;britni@hotmail.com;
+maria;123456;1;Maria Jose;Gozalez;mariam@gmail.com;
